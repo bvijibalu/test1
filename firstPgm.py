@@ -4,3 +4,4 @@ if stu=='yes':
     print("study algo")
 else:
     print("go to NM lab")
+    print("practice Git")
